@@ -10,7 +10,7 @@ AI-powered tool to automatically manage your Gmail — categorize emails, assign
 🧹 Inbox cleanup
 🔔 Slack notifications
 ⚙️ Setup
-git clone https://github.com/tonykipkemboi/crewai-gmail-automation.git
+git clone https://github.com/sankalppanchabhai123/Email-Workflow-Automation.git
 cd crewai-gmail-automation
 python -m venv .venv
 .venv\Scripts\activate
